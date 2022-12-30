@@ -1,0 +1,28 @@
+.admin-sidebar {
+    margin: 0 auto;
+    /* overflow: hidden; */
+  }
+  
+  .admin-sidebar:hover {
+    overflow-y: scroll;
+    
+  }
+
+  .x-toggle::after {
+    content: "NO";
+}
+input[type="checkbox"]:checked{
+  color: #000;
+}
+
+.modal_image {
+  height: 20px !important;
+  width: 40px !important;
+}
+.styles-module_wrapper__1I_qj{
+  z-index: 20 !important;
+}
+.side_logo {
+  width: 115px;
+  margin-left: 15px;
+}
